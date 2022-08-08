@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SfZg3s1em9wTwP9RG+FyO/3aF7VZEr8vFT8ysAxbuSyW+YSx21NfEtdZIXoiLgfLQtm4zgLKNn8NnBQtN1DaVg==",
+  "success": true,
+  "projectFilePath": "/home/tomy/htdocs/learn/cs/EMath/EMath.csproj",
+  "expectedPackageFiles": [
+    "/home/tomy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

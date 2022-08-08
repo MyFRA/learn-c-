@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/AVariables
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/AVariables.deps.json
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/AVariables.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/AVariables.dll
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/ref/AVariables.dll
+/home/tomy/htdocs/learn/cs/AVariables/bin/Debug/net6.0/AVariables.pdb
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.dll
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/ref/AVariables.dll
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.pdb
+/home/tomy/htdocs/learn/cs/AVariables/obj/Debug/net6.0/AVariables.genruntimeconfig.cache

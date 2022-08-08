@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/EMath
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/EMath.deps.json
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/EMath.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/EMath.dll
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/ref/EMath.dll
+/home/tomy/htdocs/learn/cs/EMath/bin/Debug/net6.0/EMath.pdb
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.dll
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/ref/EMath.dll
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.pdb
+/home/tomy/htdocs/learn/cs/EMath/obj/Debug/net6.0/EMath.genruntimeconfig.cache

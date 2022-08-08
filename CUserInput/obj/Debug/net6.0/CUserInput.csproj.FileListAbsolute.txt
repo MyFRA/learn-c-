@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/CUserInput
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/CUserInput.deps.json
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/CUserInput.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/CUserInput.dll
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/ref/CUserInput.dll
+/home/tomy/htdocs/learn/cs/CUserInput/bin/Debug/net6.0/CUserInput.pdb
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.dll
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/ref/CUserInput.dll
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.pdb
+/home/tomy/htdocs/learn/cs/CUserInput/obj/Debug/net6.0/CUserInput.genruntimeconfig.cache

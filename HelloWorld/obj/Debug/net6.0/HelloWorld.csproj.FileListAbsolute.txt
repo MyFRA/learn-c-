@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/tomy/htdocs/learn/cs/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/tomy/htdocs/learn/cs/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache

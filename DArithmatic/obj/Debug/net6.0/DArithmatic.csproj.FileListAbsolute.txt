@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/DArithmatic
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/DArithmatic.deps.json
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/DArithmatic.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/DArithmatic.dll
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/ref/DArithmatic.dll
+/home/tomy/htdocs/learn/cs/DArithmatic/bin/Debug/net6.0/DArithmatic.pdb
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.dll
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/ref/DArithmatic.dll
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.pdb
+/home/tomy/htdocs/learn/cs/DArithmatic/obj/Debug/net6.0/DArithmatic.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/BTypeCasting
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/BTypeCasting.deps.json
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/BTypeCasting.runtimeconfig.json
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/BTypeCasting.dll
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/ref/BTypeCasting.dll
+/home/tomy/htdocs/learn/cs/BTypeCasting/bin/Debug/net6.0/BTypeCasting.pdb
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.csproj.AssemblyReference.cache
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.AssemblyInfoInputs.cache
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.AssemblyInfo.cs
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.csproj.CoreCompileInputs.cache
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.dll
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/ref/BTypeCasting.dll
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.pdb
+/home/tomy/htdocs/learn/cs/BTypeCasting/obj/Debug/net6.0/BTypeCasting.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDr7ESMDzRidmz4Gy43auQt0G0X5igTeBdJPE1qPK8gfXrDdo75gXIkZNMnhvfndpjlSfXeCyRNqTH4JiQlBNQ==",
+  "success": true,
+  "projectFilePath": "/home/tomy/htdocs/learn/cs/AVariables/AVariables.csproj",
+  "expectedPackageFiles": [
+    "/home/tomy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGZuZ0b31BrksN4To2eqeDc1aG1QLVKgkj+aHyVUU7nP0ZUHR/32MYqlw3X5Rf/WlgTBIuzn4tEIZKjatTbi5g==",
+  "success": true,
+  "projectFilePath": "/home/tomy/htdocs/learn/cs/DArithmatic/DArithmatic.csproj",
+  "expectedPackageFiles": [
+    "/home/tomy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

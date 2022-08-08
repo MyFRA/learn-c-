@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0xf2dTeMRckuc/8MrhRZPBOI164nWFYJk7hYwqdBsz5nARZ2gqJcVYEspI8bjRiSAavh+v22UV+ZNyaHin3vA==",
+  "success": true,
+  "projectFilePath": "/home/tomy/htdocs/learn/cs/BTypeCasting/BTypeCasting.csproj",
+  "expectedPackageFiles": [
+    "/home/tomy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
